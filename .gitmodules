@@ -1,0 +1,3 @@
+[submodule "Packages/DracoUnity"]
+	path = Packages/DracoUnity
+	url = https://github.com/eric1932/DracoUnity
